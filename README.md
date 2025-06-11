@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsherif-119b60337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-![Static Badge](https://img.shields.io/badge/instagram-red)](https://www.facebook.com/share/1KscghQWsa/?mibextid=LQQJ4d)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KscghQWsa/?mibextid=LQQJ4d)
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmed452005)
 
 ---
