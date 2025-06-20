@@ -53,22 +53,27 @@
 
 ---
 
-### 🧪 Projects & Badges
+### 🏅 Certificates & Achievements
 
-Here are a few projects I’ve worked on:
+- 📜 [Huawei HCIA-AI Certificate](#) *(Machine Learning, Binary Classification, Clustering, Deep Learning)*
+- 🧠 Codeforces training and problem-solving enthusiast
+- 🌐 [Frontend Projects (HTML/CSS/JS)](#) *(Coming Soon...)*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaOmarSaad&repo=MachineSimulator)](https://github.com/HamzaOmarSaad/MachineSimulator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaOmarSaad&repo=AVL-Tree-Address-Book)](https://github.com/HamzaOmarSaad/AVL-Tree-Address-Book)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaOmarSaad&repo=SuperMarket-DB)](https://github.com/HamzaOmarSaad/SuperMarket-DB)
+> 📝 Feel free to ask me for proof or view sample projects!
 
 ---
 
 ### 📊 GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaOmarSaad&show_icons=true&theme=radical)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaOmarSaad&show_icons=true&theme=radical&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOmarSaad&layout=compact&theme=radical)](https://github.com/HamzaOmarSaad)
+
+---
+
+### 📈 Contribution Streak & Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HamzaOmarSaad&theme=radical&border_radius=5.5)](https://github.com/HamzaOmarSaad)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaOmarSaad&theme=react-dark&area=true)](https://github.com/HamzaOmarSaad)
 
 ---
 
