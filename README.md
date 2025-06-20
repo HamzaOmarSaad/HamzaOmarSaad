@@ -1,73 +1,82 @@
-
-
 <!--
 **HamzaOmarSaad/HamzaOmarSaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hamza 
 
-👨‍💻 **A Passionate Software Developer from Egypt**
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hamza Omar
+
+👨‍💻 **Aspiring Software Engineer | AI Enthusiast | Web Developer**
 
 ---
 
 ### ✨ About Me:
-- 🚀 Software enthusiast diving deep into the world of technology & AI.
-- 🌱 Currently learning advanced **problem-solving**, **data structures**, and **system design**.
-- 🎯 Focused on mastering **Design Patterns** and **SOLID principles**.
-- 💬 Open to collaboration on **AI**, **software development**, and **open-source** projects.
+- 🎓 2nd-year CS student at Cairo University, Faculty of Computers & AI.
+- 🚀 Passionate about building clean, scalable software and learning new tech.
+- 📌 Focused on mastering **Data Structures**, **Algorithms**, and **System Design**.
+- 🧠 Currently exploring **JavaScript**, **React**, **Frontend Development**, and **AI**.
+- 💬 Solving problems on [Codeforces](https://codeforces.com/profile/hamza452005) and building real-world projects.
+- 🤝 Open to internships, collaborations, and mentorship in software engineering & AI.
 
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsherif-119b60337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KscghQWsa/?mibextid=LQQJ4d)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmed452005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-omar-0b2993276/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamza.omar.161009)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hamza452005)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamzaOmarSaad)
 
 ---
 
-### 🛠️ Languages and Technologies:
+### 🧠 Skills & Interests
 
-#### 🚩 Languages:
+#### 🚩 Programming Languages:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 🧩 Skills & Concepts:
+#### 📚 Core Knowledge:
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-228B22?style=flat-square&logo=dependabot&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-800080?style=flat-square&logo=codeforces&logoColor=white)
-![Databases](https://img.shields.io/badge/Databases-003B57?style=flat-square&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-1abc9c?style=flat-square&logo=abstract&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FFA500?style=flat-square&logo=patternfly&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-ff69b4?style=flat-square&logo=abstract&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-b300b3?style=flat-square&logo=abstract&logoColor=white)
 
-#### 🛠️ Tools:
+#### 🛠️ Tools & Tech:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-### 🎥 Programming in Action:
+### 🧪 Projects & Badges
+
+Here are a few projects I’ve worked on:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaOmarSaad&repo=MachineSimulator)](https://github.com/HamzaOmarSaad/MachineSimulator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaOmarSaad&repo=AVL-Tree-Address-Book)](https://github.com/HamzaOmarSaad/AVL-Tree-Address-Book)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaOmarSaad&repo=SuperMarket-DB)](https://github.com/HamzaOmarSaad/SuperMarket-DB)
+
+---
+
+### 📊 GitHub Stats
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaOmarSaad&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOmarSaad&layout=compact&theme=radical)](https://github.com/HamzaOmarSaad)
+
+---
+
+### 🎥 Programming in Action
 ![Programming GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
 ---
 
-### 🚀 Let's Build Something Awesome!
+### 🚀 Let’s Build Together!
 If you're passionate about **AI**, **coding challenges**, or creating cool projects — let's connect!  
 Feel free to reach out anytime. Let's grow and build together 💪🌱
-
----
