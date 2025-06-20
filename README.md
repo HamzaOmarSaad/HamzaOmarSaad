@@ -9,7 +9,7 @@
 ---
 
 ### ✨ About Me:
-- 🎓 2nd-year CS student at Cairo University, Faculty of Computers & AI.
+- 🎓 3rd-year CS student at Cairo University, Faculty of Computers & AI.
 - 🚀 Passionate about building clean, scalable software and learning new tech.
 - 📌 Focused on mastering **Data Structures**, **Algorithms**, and **System Design**.
 - 🧠 Currently exploring **JavaScript**, **React**, **Frontend Development**, and **AI**.
@@ -60,20 +60,6 @@
 - 🌐 [Frontend Projects (HTML/CSS/JS)](#) *(Coming Soon...)*
 
 > 📝 Feel free to ask me for proof or view sample projects!
-
----
-
-### 📊 GitHub Stats
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaOmarSaad&show_icons=true&theme=radical&hide=prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaOmarSaad&layout=compact&theme=radical)](https://github.com/HamzaOmarSaad)
-
----
-
-### 📈 Contribution Streak & Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HamzaOmarSaad&theme=radical&border_radius=5.5)](https://github.com/HamzaOmarSaad)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaOmarSaad&theme=react-dark&area=true)](https://github.com/HamzaOmarSaad)
 
 ---
 
