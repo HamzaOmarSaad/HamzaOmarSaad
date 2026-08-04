@@ -128,8 +128,9 @@ Topics Covered:
 
 # 🏅 Certificates
 
-- 📜 Huawei HCIA-AI
-- 🎓 Full Stack MERN Development Diploma — Route Academy
+- 📜 [Huawei HCIA-AI Certificate](YOUR_HUAWEI_LINK)
+- 🎓 [Frontend Development Diploma – Route Academy](https://drive.google.com/file/d/1CqKPeJXeXpao_lruJMW--oKu-qXExGWq/view?usp=sharing)
+- 🎓 [Backend Development Diploma – Route Academy](https://drive.google.com/file/d/1XjLV1v3RXI7TI6Bhwa_He-V1KdrlYlPZ/view?usp=sharing)
 
 ---
 
