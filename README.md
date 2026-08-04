@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd-year Computer Science student at Cairo University, Faculty of Computers & Artificial Intelligence.
+- 🎓 Computer Science student at Cairo University, Faculty of Computers & Artificial Intelligence.
 - 💻 Full Stack MERN Developer with hands-on experience building scalable web applications.
 - 🚀 Passionate about Software Engineering, Backend Development, and AI.
 - 📚 Constantly improving my knowledge of Data Structures, Algorithms, System Design, and Clean Architecture.
@@ -129,8 +129,8 @@ Topics Covered:
 # 🏅 Certificates
 
 - 📜 [Huawei HCIA-AI Certificate](YOUR_HUAWEI_LINK)
-- 🎓 [Frontend Development Diploma – Route Academy](https://drive.google.com/file/d/1CqKPeJXeXpao_lruJMW--oKu-qXExGWq/view?usp=sharing)
-- 🎓 [Backend Development Diploma – Route Academy](https://drive.google.com/file/d/1XjLV1v3RXI7TI6Bhwa_He-V1KdrlYlPZ/view?usp=sharing)
+- 🎓 [Backend Development Diploma – Route Academy](https://drive.google.com/file/d/1CqKPeJXeXpao_lruJMW--oKu-qXExGWq/view?usp=sharing)
+- 🎓 [Frontend Development Diploma – Route Academy](https://drive.google.com/file/d/1XjLV1v3RXI7TI6Bhwa_He-V1KdrlYlPZ/view?usp=sharing)
 
 ---
 
